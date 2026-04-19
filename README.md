@@ -5,16 +5,17 @@ FlashForge is an AI-powered web application that transforms PDFs into smart, int
 ---
 
 ## ✨ Features
-- PDF upload (drag & drop, up to 50MB)
-- AI generates 8–35 cards based on PDF length
-- SM-2 spaced repetition (same as Anki)
-- "Study Due Cards" vs "Study All" mode
-- Progress: New → Learning → Reviewing → Mastered
-- Persistent storage: server JSON + localStorage cache
-- Export / Import decks as JSON
-- Edit/remove cards before saving
-- Hint system per card
-- Keyboard shortcuts (Space, 1–4)
+
+- 📄 Upload PDFs (drag & drop support)  
+- ⚡ AI-generated flashcards from study material  
+- 🧠 Adaptive spaced repetition for better retention  
+- 🎯 Study modes: Due Cards & All Cards  
+- 📊 Progress tracking (New → Learning → Reviewing → Mastered)  
+- 💾 Persistent storage (server + local cache)  
+- 📤 Export / Import decks (JSON)  
+- ✏️ Edit or remove cards before saving  
+- 💡 Hint system for guided learning  
+- ⌨️ Keyboard shortcuts (Space, 1–4)  
 ---
 ## 🛠️ Tech Stack  
 
