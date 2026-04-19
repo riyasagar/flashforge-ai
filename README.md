@@ -2,7 +2,14 @@
 FlashForge is an AI-powered web application that transforms PDFs into smart, interactive flashcards. It helps students study more effectively using active recall and adaptive learning techniques, turning static content into a dynamic learning experience.
 
 
+![FlashForge](https://img.shields.io/badge/FlashForge-AI%20Flashcard%20Engine-5B4BF5?style=for-the-badge&logoColor=white)
+![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-Express-339933?style=flat-square&logo=node.js)
+![Groq](https://img.shields.io/badge/AI-Groq%20API-F55036?style=flat-square)
+![Render](https://img.shields.io/badge/Deployed-Render-46E3B7?style=flat-square&logo=render)
+ 
 ---
+
 
 ## ✨ Features
 
@@ -58,6 +65,4 @@ npm run dev
 4. Environment Variables:
    - `GROQ_API_KEY` = your key
    - `NODE_ENV` = `production`
-5. Deploy ✅
-
-The backend serves the built frontend at the root URL.
+5. Deploy ✅— Render builds everything and gives you a public URL.
